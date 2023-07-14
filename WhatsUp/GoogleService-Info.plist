@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175617816162-iujnv9dppp4oec3t4n02qok1tppt4vrj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175617816162-iujnv9dppp4oec3t4n02qok1tppt4vrj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9zitzQVI9ufPyv1njLD8b1AV_vJZuFL4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175617816162</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Elkomey.WhatsUp</string>
+	<key>PROJECT_ID</key>
+	<string>whatsup-e5e93</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsup-e5e93.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175617816162:ios:dbc90237cb40fff60c033b</string>
+</dict>
+</plist>
